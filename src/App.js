@@ -4,6 +4,7 @@ import './App.css';
 import { Projects } from './Projects';
 import Nav from './Nav';
 import Contact from './Contact';
+import Info from './Info'
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <h1>Alex Crowe</h1>
       <h2>Web Developer</h2>
       </header>
+
+      <Info />
 
       <main>
       <Nav/>

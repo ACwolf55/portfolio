@@ -1,7 +1,11 @@
 .App {
   text-align: center;
-  background-color: rgb(62, 95, 203);
-  height:100vh;
+  background-color: rgb(39, 112, 230);
+  height:280vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
   }
 
 header{
@@ -9,12 +13,22 @@ header{
 
 }
 
+section{
+  height:50vh;
+  width: 95vw;
+  display: flex;
+
+  align-items: center;
+  justify-content: space-around;
+  border: rgb(20, 236, 239) solid 1px;
+}
+
 main{
   display:flex;
 }
 
 .projects{
-  height:60vh;
+  height:150vh;
   width: 95vw;
   display: flex;
   flex-wrap: wrap;
@@ -25,7 +39,13 @@ main{
 }
 
 .project{
-  width:40vw;
+  width:90vw;
   height: 25vh;
   border: black solid 1px;
+}
+
+.contact{
+  width:90vw;
+  height: 25vh;
+  border: rgb(255, 35, 1) solid 1px;
 }
