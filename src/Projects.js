@@ -31,7 +31,7 @@ export const Projects = () => {
 
 <div className='project'>
   <h2>MyVcard</h2>
-    <h2>https://www.overlap.lol/</h2>
+    <h2>https://myvcard.lol/</h2>
   <p></p>
     
 </div>
