@@ -5,16 +5,20 @@ export const Projects = () => {
     <div className='projects'>
 
 <div className='project'>
-  <h2>Pokemon Team Builder</h2>
-  <h2>https://ac-devmountain.herokuapp.com/</h2>
+  <h2><a href='https://pkmteambuilder.xyz/'>Pokemon Team Builder</a></h2>
+  <h4>github link</h4>
+  <img src='./pkm-team-builer-scn.png' id='site-scrn'></img>
   <p></p>
-    
 </div>
+
 <div className='project'>
-  <h2>AC-2-Market</h2>
-    <h2>https://ac-market.herokuapp.com/</h2>
+<h2><a href='https://ac-market.herokuapp.com/'>AC-2-Market</a></h2>
+<h4>github link</h4>
+  <img src='./AC-Market-srcn.png' id='site-scrn'></img>
   <p></p>
+
 </div>
+
 
 <div className='project'>
   <h2>Dawg Sports</h2>

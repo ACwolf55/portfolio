@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background-color: #041424;
-  height:280vh;
+  height:2800px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -70,7 +70,7 @@ main{
 }
 
 .projects{
-  height:150vh;
+  height:1500px;
   width: 95vw;
   display: flex;
   flex-wrap: wrap;
@@ -84,6 +84,11 @@ main{
   width:90vw;
   height: 25vh;
   border: black solid 1px;
+}
+
+#site-scrn{
+  height: 300px;
+  width: 500px;
 }
 
 .contact{
