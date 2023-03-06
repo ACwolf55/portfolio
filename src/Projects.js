@@ -22,7 +22,7 @@ export const Projects = () => {
   <p></p>
 </div>
 
-<div className='project'>
+{/* <div className='project'>
   <h2>Overlap.lol</h2>
     <h2>https://www.overlap.lol/</h2>
   <p></p>
@@ -34,7 +34,7 @@ export const Projects = () => {
     <h2>https://myvcard.lol/</h2>
   <p></p>
     
-</div>
+</div> */}
 
     </div>
   )

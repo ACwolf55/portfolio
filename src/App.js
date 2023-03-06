@@ -17,7 +17,6 @@ function App() {
       <Info />
 
       <main>
-      <Nav/>
     <Projects/>
     </main>
 
