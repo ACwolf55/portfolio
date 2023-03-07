@@ -24,14 +24,16 @@ const Info = () => {
        <img src='./postgresSQL-logo.png' className='tech-logo'></img>
     </div>    
         </div>
+
+        <div style={{border: "2px solid #92c3f8", height: "200px"}}></div>
         
 
 <div className='other-tech'>
 <div className='techs'>
       <h3>other Tech / Learning </h3>
-       <img src='./vue-logo.png' className='tech-logo'></img>
-       <img src='./python-logo.png' className='tech-logo'></img>
-       <img src='./csharp-logo.png' className='tech-logo'></img>
+       <img src='./vue-logo.png' className='tech-logo-other'></img>
+       <img src='./python-logo.png' className='tech-logo-other'></img>
+       <img src='./csharp-logo.png' className='tech-logo-other'></img>
     </div>  
 </div>
     </section>
