@@ -24,9 +24,9 @@ const Info = () => {
        <img src='./postgresSQL-logo.png' className='tech-logo'></img>
     </div>    
         </div>
-
-        <div style={{border: "2px solid #92c3f8", height: "200px"}}></div>
-        
+        <div className='divider'></div>
+        {/* <div style={{border: "2px solid #92c3f8", height: "200px"}}></div>
+         */}
 
 <div className='other-tech'>
 <div className='techs'>

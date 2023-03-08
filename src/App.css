@@ -109,25 +109,76 @@ h3{
   justify-content:flex-start;
 }
 
+.divider{
+
+  border: 2px solid #92c3f8;
+   height: 200px
+}
+
+
 main{
   display:flex;
 }
 
 .projects{
-  height:1500px;
+  height:1600px;
   width: 95vw;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
-  border: rgb(62, 255, 9) solid 1px;
+  border: #92c3f8 solid 3px;
+  border-radius: 25px;
+  background-color: #0069D7;
 
 }
 
 .project{
-  width:90vw;
-  height: 25vh;
+  display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+  width:1200px;
+  height: 500px;
+  background-image: linear-gradient(to bottom right,#314567,#077988);
   border: black solid 1px;
+  
+}
+
+h2{
+  color:white;
+  font-size: larger;
+  font-weight: 500;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 350px;
+  border-radius: 25px;
+}
+h2:hover{
+  background-color:#077988 ;
+}
+
+.github-div{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: small;
+  justify-content: center;
+  height: 80px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.github-div:hover{
+  background-color:#077988 ;
+}
+
+.github-logo{
+  height: 50px;
+  width:50px;
 }
 
 #site-scrn{
@@ -141,6 +192,84 @@ main{
 
 .contact{
   width:90vw;
-  height: 25vh;
+  height: 340px;
   border: rgb(255, 35, 1) solid 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
 }
+.form-row{
+  display: flex;
+}
+@media (max-width:1000px) {
+  main{
+    flex-direction: column;
+  }
+
+  .bluearrows{
+  display:none;
+  }
+  
+  section{
+    flex-direction: column;
+    justify-content: space-around;
+    height: 500px;
+    width:95vw;
+  }
+
+  .techs{
+    width: 320px;
+    height: 150px;
+  }
+  
+  .tech-logo{
+    width: 140px;
+    height: 100px;
+  }
+  
+  .tech-logo-other{
+    width: 155px;
+    height: 130px;
+  }
+
+  .divider{
+    display: none;
+  }
+
+  #site-scrn{
+    height: 200px;
+    width:300px;
+  }
+
+  .techs{
+    width: 320px;
+    height: 230px;
+  }
+  
+  .tech-logo{
+    width: 100px;
+    height: 70px;
+  }
+  
+  .tech-logo-other{
+    width: 55px;
+    height: 50px;
+  }
+  
+  .main-stack{
+    width:95vw;
+  }
+  .other-tech{
+    /* border: rgb(20, 236, 239) solid 1px; */
+    width:250px;
+    height:330px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+  }
+  
+  
+  }
+  

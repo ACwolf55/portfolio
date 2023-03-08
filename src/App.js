@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header>
       <h1>Alex Crowe</h1>
-      <h2>Web Developer</h2>
+      <h1>Web Developer</h1>
       </header>
       
 <nav>
