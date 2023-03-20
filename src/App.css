@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background-color: #0a2239;
-  height:2600px;
+  height:2900px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -124,12 +124,14 @@ main{
 }
 
 .projects{
-  height:1600px;
+  height:1800px;
   width: 95vw;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
   border: #92c3f8 solid 3px;
   border-radius: 25px;
   background-color: #0069D7;

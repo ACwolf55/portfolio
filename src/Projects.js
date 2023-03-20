@@ -8,7 +8,7 @@ export const Projects = () => {
 {/* if your looking at this and like why didnt he make Project of seraparate components instead of reapeating his code?
 well... you know... idk lol I might do that hhaha */}
 
-<h1>Personal Projects</h1>
+<h3>Personal Projects</h3>
 
 <div className='project'>
   <h2><a href='https://pkmteambuilder.xyz/'>Pokemon Team Builder</a></h2>
