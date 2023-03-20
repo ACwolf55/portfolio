@@ -85,7 +85,7 @@ h3{
 
 .tech-logo{
   width: 100px;
-  height: 75px;
+  height: 85px;
 }
 
 .tech-logo-other{
@@ -164,6 +164,9 @@ h2{
 }
 h2:hover{
   background-color:#077988 ;
+}
+a{
+  color: inherit;
 }
 
 .github-div{

@@ -15,7 +15,7 @@ const Info = () => {
 
       <div className='tech'>
         <h3>Backend</h3>
-       <img src='./node-express-logo.png' className='tech-logo'></img>
+       <img src='./express-js.png' className='tech-logo'></img>
 </div>
 
     <div className='techs'>

@@ -11,7 +11,7 @@ well... you know... idk lol I might do that hhaha */}
 <h3>Personal Projects</h3>
 
 <div className='project'>
-  <h2><a href='https://pkmteambuilder.xyz/'>Pokemon Team Builder</a></h2>
+  <h2><a href='https://pkmteambuilder.xyz/' target="_blank">Pokemon Team Builder</a></h2>
   
       <a href='https://github.com/ACwolf55/dawg_sports' target="_blank" className='github-div'>
       <img src='./github.png' className='github-logo' onClick={()=>window.open('https://pkmteambuilder.xyz/')}>
@@ -24,7 +24,7 @@ well... you know... idk lol I might do that hhaha */}
 </div>
 
 <div className='project'>
-<h2><a href='https://ac-market.shop/'>AC-2-Market</a></h2>
+<h2><a href='https://ac-market.shop/' target="_blank">AC-2-Market</a></h2>
 <a href='https://github.com/ACwolf55/dawg_sports' target="_blank" className='github-div'>
       <img src='./github.png' className='github-logo' onClick={()=>window.open('https://ac-market.shop/')}>
       </img>
@@ -37,7 +37,7 @@ well... you know... idk lol I might do that hhaha */}
 
 
 <div className='project'>
-  <h2><a href='https://dawgsports.xyz/'>Dawg Sports</a></h2>
+  <h2><a href='https://dawgsports.xyz/' target="_blank">Dawg Sports</a></h2>
     <a href='https://github.com/ACwolf55/dawg_sports' target="_blank" className='github-div'>
       <img src='./github.png' className='github-logo' onClick={()=>window.open('https://dawgsports.xyz/')}>
       </img>
