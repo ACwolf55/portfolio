@@ -224,6 +224,12 @@ padding: 10px;
   .App{
     height:3200px;
   }
+
+  h1{
+    font-size: large;
+    margin-right: 30px;
+  }
+
   main{
     flex-direction: column;
   }
@@ -299,7 +305,9 @@ width: 90vw;
     align-items: center;
     justify-content:flex-start;
   }
-  
+  input{
+    width: 150px;
+  }
   
   }
   
