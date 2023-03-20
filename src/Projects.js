@@ -43,7 +43,7 @@ well... you know... idk lol I might do that hhaha */}
       </img>
         <p>click to check out code~</p>
       </a>
-      <img src='./dawg-sports-scnshot.png' id='site-scrn' onClick={()=>window.open('https://ac-market.shop/')}></img>
+      <img src='./dawg-sports2.png' id='site-scrn' onClick={()=>window.open('https://ac-market.shop/')}></img>
   <p></p>
 </div>
 
