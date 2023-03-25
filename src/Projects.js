@@ -47,17 +47,14 @@ well... you know... idk lol I might do that hhaha */}
   <p></p>
 </div>
 
-<h3>Current Freelance Project</h3>
+{/* <h3>Current Freelance Project</h3>
 <div className='project'>
   <h2><a href='https://myvcf.lol/' target="_blank">My Vcf</a></h2>
-    {/* <a href='https://github.com/ACwolf55/myVcf' target="_blank" className='github-div'>
-      <img src='./github.png' className='github-logo' onClick={()=>window.open('https://myvcf.lol/')}>
-      </img>
-        <p>click to check out code~</p>
-      </a> */}
+
+
       <img src='./myvcf.png' id='site-scrn-phone' onClick={()=>window.open('https://myvcf.lol/')}></img>
   <p></p>
-</div>
+</div> */}
 
 
 {/* <div className='project'>
