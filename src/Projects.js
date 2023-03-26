@@ -13,7 +13,7 @@ well... you know... idk lol I might do that hhaha */}
 <div className='project'>
   <h2><a href='https://pkmteambuilder.xyz/' target="_blank">Pokemon Team Builder</a></h2>
   
-      <a href='https://github.com/ACwolf55/dawg_sports' target="_blank" className='github-div'>
+      <a href='https://github.com/ACwolf55/pkm-team-builder' target="_blank" className='github-div'>
       <img src='./github.png' className='github-logo' onClick={()=>window.open('https://pkmteambuilder.xyz/')}>
       </img>
         <p>click to check out code~</p>
@@ -25,7 +25,7 @@ well... you know... idk lol I might do that hhaha */}
 
 <div className='project'>
 <h2><a href='https://ac-market.shop/' target="_blank">AC-2-Market</a></h2>
-<a href='https://github.com/ACwolf55/dawg_sports' target="_blank" className='github-div'>
+<a href='https://github.com/ACwolf55/AC--2---Market' target="_blank" className='github-div'>
       <img src='./github.png' className='github-logo' onClick={()=>window.open('https://ac-market.shop/')}>
       </img>
         <p>click to check out code~</p>
